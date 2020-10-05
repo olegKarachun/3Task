@@ -1,0 +1,7 @@
+A:\3Task\bin\Debug\3Task.exe.config
+A:\3Task\bin\Debug\3Task.exe
+A:\3Task\bin\Debug\3Task.pdb
+A:\3Task\obj\Debug\3Task.csprojAssemblyReference.cache
+A:\3Task\obj\Debug\3Task.csproj.CoreCompileInputs.cache
+A:\3Task\obj\Debug\3Task.exe
+A:\3Task\obj\Debug\3Task.pdb
